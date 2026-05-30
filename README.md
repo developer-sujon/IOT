@@ -13,17 +13,21 @@ A collection of Arduino-based robotics and IoT projects for learning and experim
 | 5   | [Traffic Light LED Effect](./traffic_light_led_effect)                           | Realistic traffic light simulation (red → yellow → green)            |
 | 6   | [USB Communication with Serial Monitor](./usb_communication_with_serial_monitor) | Serial monitor echo communication demonstration                      |
 | 7   | [Kitchen Safety Automation](./kitchen_safety_automation)                         | Gas leak detection system using MQ-6 sensor with LED & buzzer alerts |
+| 8   | [Heat Wave](./heat_wave)                                                         | Temperature & humidity monitoring system using DHT11 sensor          |
+| 9   | [Infrared Receiver](./infrared_receiver)                                         | IR remote signal receiver and decoder using IR receiver module       |
 
 ## About This Repository
 
 This repository contains beginner-friendly Arduino projects covering:
 
 - Basic GPIO control
-- Sensor interfacing (LDR, MQ-6)
+- Sensor interfacing (LDR, MQ-6, DHT11)
 - PWM (Pulse Width Modulation)
 - Serial communication
 - Button input handling
 - LED effects and sequencing
+- Temperature & humidity monitoring
+- IR remote control and decoding
 
 ## Requirements
 
